@@ -759,6 +759,12 @@ a {
     width: 50%
 }
 
+@media screen and (max-width: 800px) {
+  .contact-info {
+    width: 100%
+}
+}
+
 .contact-item {
     display: flex;
     align-items: center;
